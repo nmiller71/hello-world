@@ -1,3 +1,3 @@
 # hello-world
 ===
-I lvoe to geek out
+I love to geek out
